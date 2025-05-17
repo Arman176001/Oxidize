@@ -45,8 +45,6 @@ This fusion allows for a high-performance model tailored for structured problem-
 
 ## Project Architecture
 
-> ![Architecture Diagram](docs/Oxidize System Architecture Flowchart.png)
-
 - `encoder_decoder/`: Transformer model with caching, rotary embeddings, and token-wise attention  
 - `ast_parser/`: Python and Rust AST traversal and rule-based translator  
 - `dataset/`: Collects, preprocesses, and aligns Python-Rust code pairs  
