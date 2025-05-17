@@ -53,26 +53,11 @@ This fusion allows for a high-performance model tailored for structured problem-
 - `training/`: Model training, evaluation, and logging  
 
 ---
-
-## Repository Structure
-
-oxidize/
-├── docs/
-├── src/
-├── notebooks/
-├── examples/
-├── tests/
-├── README.md
-├── requirements.txt
-└── LICENSE
-
-
----
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/edtransformer.git
-cd edtransformer
+git clone https://github.com/Arman176001/Oxidize.git
+cd src
 pip install -r requirements.txt
 ```
 
